@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Basic_Util" />
+        <module name="Config_Servers" />
+        <module name="Eureka_Server" />
+        <module name="Plat_Interface" />
+        <module name="Plat_Service" />
+        <module name="Zuul_Gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Basic_Parent" target="1.8" />
+      <module name="Basic_Util" target="1.8" />
+      <module name="Config_Server" target="1.8" />
+      <module name="Config_Servers" target="1.8" />
+      <module name="daydayshoping_parent" target="1.8" />
+      <module name="Eureka_Server" target="1.8" />
+      <module name="Plat_Interface" target="1.8" />
+      <module name="Plat_Parent" target="1.8" />
+      <module name="Plat_Service" target="1.8" />
+      <module name="Zuul_Gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
