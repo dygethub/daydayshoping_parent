@@ -9,6 +9,7 @@
         <module name="Basic_Util" />
         <module name="Config_Servers" />
         <module name="Eureka_Server" />
+        <module name="Plat_Comsumer" />
         <module name="Plat_Interface" />
         <module name="Plat_Service" />
         <module name="Zuul_Gateway" />
@@ -21,6 +22,7 @@
       <module name="Config_Servers" target="1.8" />
       <module name="daydayshoping_parent" target="1.8" />
       <module name="Eureka_Server" target="1.8" />
+      <module name="Plat_Comsumer" target="1.8" />
       <module name="Plat_Interface" target="1.8" />
       <module name="Plat_Parent" target="1.8" />
       <module name="Plat_Service" target="1.8" />

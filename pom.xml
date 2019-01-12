@@ -13,7 +13,6 @@
         <module>Zuul_Gateway</module>
         <module>Basic_Parent</module>
         <module>Plat_Parent</module>
-        <module>Config_Server</module>
         <module>Config_Servers</module>
 
     </modules>

@@ -9,6 +9,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Config_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Plat_Parent/pom.xml" />
       </set>
     </option>
   </component>

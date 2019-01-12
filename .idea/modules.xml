@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Basic_Parent/Basic_Util/Basic_Util.iml" filepath="$PROJECT_DIR$/Basic_Parent/Basic_Util/Basic_Util.iml" />
       <module fileurl="file://$PROJECT_DIR$/Config_Servers/Config_Servers.iml" filepath="$PROJECT_DIR$/Config_Servers/Config_Servers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eureka_Server/Eureka_Server.iml" filepath="$PROJECT_DIR$/Eureka_Server/Eureka_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plat_Parent/Plat_Comsumer/Plat_Comsumer.iml" filepath="$PROJECT_DIR$/Plat_Parent/Plat_Comsumer/Plat_Comsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plat_Parent/Plat_Interface/Plat_Interface.iml" filepath="$PROJECT_DIR$/Plat_Parent/Plat_Interface/Plat_Interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Plat_Parent/Plat_Parent.iml" filepath="$PROJECT_DIR$/Plat_Parent/Plat_Parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plat_Parent/Plat_Service/Plat_Service.iml" filepath="$PROJECT_DIR$/Plat_Parent/Plat_Service/Plat_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul_Gateway/Zuul_Gateway.iml" filepath="$PROJECT_DIR$/Zuul_Gateway/Zuul_Gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zuul_Gateway/Zuul_Gateway.iml" filepath="$PROJECT_DIR$/Zuul_Gateway/Zuul_Gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/daydayshoping_parent.iml" filepath="$PROJECT_DIR$/daydayshoping_parent.iml" />
     </modules>
